@@ -9,14 +9,10 @@ categories:
 ---
 This is something new
 
-# Heading
+## Heading
 
 ![null](/images/uploads/making-bad-decisions-and-living-deal-with-the-consequences.jpg)
 
 Something else goes here
 
-
-
-
-
-![](/images/uploads/going-from-40c-to-20c.jpg)
+![null](/images/uploads/going-from-40c-to-20c.jpg)
