@@ -12,7 +12,7 @@ publish = "public"
 command = "hugo"
 
 [[redirects]]
-  from = "/news"
-  to = "/projects"
-  status = 200
+  from = "https://ro-nav-community.netlify.com/* "
+  to = "https://navhub.org/:splat"
+  status = 301
   force = true # COMMENT: ensure that we always redirect
