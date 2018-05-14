@@ -10,3 +10,9 @@ HUGO_VERSION = "0.37"
 [build]
 publish = "public"
 command = "hugo"
+
+[[redirects]]
+  from = "/news"
+  to = "/projects"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
