@@ -9,3 +9,7 @@ categories:
   - Nav News
 ---
 Wow, what a photo!
+
+
+
+I totally agree. Best photo ever!
