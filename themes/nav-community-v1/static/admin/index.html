@@ -8,10 +8,30 @@
   <!-- Include the styles for the Netlify CMS UI, after your own styles -->
   <link rel="stylesheet" href="https://unpkg.com/@encrypt-s/netlify-cms@^1.0.0/dist/cms.css" />
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway|Roboto">
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/@encrypt-s/netlify-cms@^1.0.0/dist/cms.js"></script>
+  <script>
+    CMS.registerPreviewStyle("previewpane.css");
+  </script>
+  <script>
+    var NewsPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        var imageData = entry.getIn(['data', 'feature_image']);
+        var image = this.props.getAsset(imageData);
+        console.log(imageData)
+        return h('div', {},
+          h('img', {src: image ? image.toString() : ''}),
+          h('div', {"className": "text"}, this.props.widgetFor('body'))
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate("news", NewsPreview);
+  </script>
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
