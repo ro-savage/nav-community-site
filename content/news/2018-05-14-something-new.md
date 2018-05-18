@@ -8,4 +8,6 @@ feature_image: /images/uploads/living-like-a-king.jpg
 categories:
   - Nav News
 ---
-Nice work bro
+Nice work bro.
+
+Bro!!
