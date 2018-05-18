@@ -10,4 +10,4 @@ categories:
 ---
 What what?
 
-![](/images/uploads/crashing.jpg)
+![null](/images/uploads/crashing.jpg)
