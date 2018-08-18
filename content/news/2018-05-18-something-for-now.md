@@ -9,5 +9,3 @@ categories:
   - Nav News
 ---
 What what
-
-![null](/images/uploads/crashing.jpg)
