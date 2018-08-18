@@ -11,3 +11,5 @@ categories:
 THe first item
 
 New photo
+
+![](/images/uploads/20821582_10156449357058448_1337645957_o.jpg)
