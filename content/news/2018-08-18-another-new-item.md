@@ -9,3 +9,5 @@ categories:
   - Nav News
 ---
 THe first item
+
+New photo
