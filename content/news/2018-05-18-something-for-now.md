@@ -8,4 +8,6 @@ feature_image: /images/uploads/realising-you-werent-prepared.jpg
 categories:
   - Nav News
 ---
+![](/images/uploads/13162404_10154794730178448_654407043_n.png)
+
 What what
