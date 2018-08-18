@@ -9,3 +9,9 @@ categories:
   - Nav News
 ---
 Woah what an amaizng thing we have here!
+
+
+
+Adding a new image
+
+![](/images/uploads/bug-face.jpg)
