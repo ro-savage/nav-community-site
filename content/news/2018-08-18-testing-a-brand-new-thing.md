@@ -10,8 +10,6 @@ categories:
 ---
 What what what??
 
-
-
 Image
 
-![](/images/uploads/1489194535_12.svg)
+![](/images/uploads/13342184_1431772226848698_1941166377_n.jpg)
