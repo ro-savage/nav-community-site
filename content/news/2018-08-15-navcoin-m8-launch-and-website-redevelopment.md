@@ -10,9 +10,7 @@ categories:
 ---
 This week sees the launch of a long-term project by community developer Hash512 - his NavCoin m8 staking device is ready to go later this week. Check out the description of its features a little way down the page, and give your support to this ambitious community project. 
 
-
-
-OMG OMG OMG OMG
+OMG OMG OMG OMG!
 
 This week sees the launch of a long-term project by community developer Hash512 - his NavCoin m8 staking device is ready to go later this week. Check out the description of its features a little way down the page, and give your support to this ambitious community project. 
 
